@@ -11,11 +11,6 @@ body {
 }
 
 .grid-container {
-  /* display: grid;
-  grid-template-columns: repeat(1fr, 5) ;
-  grid-column-gap: 50px;
-  grid-row-gap: 50px;
-  justify-content: stretch; */
   display: grid;
   grid-template-columns: auto auto auto auto auto auto;
   grid-template-rows: 100px;
